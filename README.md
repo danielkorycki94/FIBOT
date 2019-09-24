@@ -10,4 +10,3 @@ Płyta sterująca odpowiada za sterowanie czterema silnikami DC z wykorzystaniem
 
 Na Raspberry Pi 3 zainstalowano Ubuntu Mate oraz Robot Operating System.
 Raspberry Pi 3 odbiera informacje z stacji sterującej ( Laptop HP z Ubuntu i ROS + joystick) odnośnie toru poruszania się robota i przesyłą po UART informacje do płyty sterującej. Raspi przesyła obraz do stacji sterującej.
-
